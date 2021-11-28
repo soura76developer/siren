@@ -1,0 +1,1105 @@
+.the
+{
+
+    position: absolute;
+    width: 28px;
+    height: 30px;
+    margin-left: 130px;
+    margin-top: 30px;
+    background-color: none;
+    transform: rotate(-90deg);
+}
+   
+.the_D
+{
+    font-size:x-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  
+
+.siren
+{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -33px;
+}
+.siren_D
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.br
+{
+ position: absolute;
+ width: 1400px;
+ height:1.9px;
+ margin-top:80px ;
+ margin-left: none;
+ background-color:rgb(236, 235, 235);
+}
+
+.button_D
+{
+    position: absolute;
+    border-color: aquamarine;
+    color: aquamarine;
+    background-color: white;
+    font-size: 12px;
+    box-shadow: none;
+    margin-left: 1200px;
+    margin-top:35px;
+}    
+
+.part2
+{   position: absolute;
+    margin-left: 450px;
+    margin-top:60px ;
+
+}
+.ways_to
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight:800 ;
+
+}
+
+.dmitry
+{
+    position: absolute;
+    font-size:23px ;
+    margin-top:-65px;
+    margin-left:120px ;
+    color: black;
+}
+
+.jan_28
+{
+    position: absolute;
+    font-size: 18px ;
+    margin-top: -30px ;
+    margin-left: 120px ;
+    color: gray;
+}
+
+.facebook
+{   
+    position: absolute;
+    width:30px;
+    height:30px;
+    margin-top:50px ;
+    margin-left:350px ;
+    border-radius: 5px;
+    
+
+
+}
+
+.twitter
+{
+    position: absolute;
+    width:30px;
+    height:30px;
+    margin-top:50px ;
+    margin-left:390px ;
+    border-radius: 5px;
+}
+.instagram
+{
+    position: absolute;
+    width:30px;
+    height:30px;
+    margin-top:50px ;
+    margin-left:430px ;
+    border-radius: 5px;
+    background-color: gray;
+}
+.youtube
+{
+    position: absolute;
+    width:30px;
+    height:30px;
+    margin-top:50px ;
+    margin-left:470px ;
+    border-radius: 5px;
+    
+}
+
+.react_SS
+{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin-left: 450px;
+    margin-top: 300px;
+
+}
+
+.part3
+{
+    position: absolute;
+    width:600px ;
+    height: 300px;
+    margin-left: 450px ;
+    margin-top:650px ;
+
+
+}
+
+.react_text
+{
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+}
+
+.react_text1
+{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: none ;
+    font-size: 15px;
+    font-weight: 900;
+
+}
+
+.code_ss
+{
+    position: absolute;
+    width:600px ;
+    height: 500px;
+    margin-left: 450px ;
+    margin-top:850px ;
+    
+
+}
+
+.react_B
+{
+    position: absolute;
+    border-color: whitesmoke;
+    background-color:whitesmoke;
+    margin-left:450px ;
+    margin-top: 1400px ; 
+    box-shadow: none;
+
+
+
+}
+.javascript_B
+{
+    position: absolute;
+    border-color: whitesmoke;
+    background-color:whitesmoke;
+    margin-left:520px ;
+    margin-top: 1400px ; 
+
+
+}
+.animation_B
+{
+    position: absolute;
+    border-color: whitesmoke;
+    background-color:whitesmoke;
+    margin-left:620px ;
+    margin-top: 1400px ; 
+
+}
+
+.clap_D
+{
+    position: absolute;
+    margin-top: 1450px ;
+    margin-left:450px;
+}
+.clap_number
+{
+    position: absolute;
+    margin-top: 1460px ;
+    margin-left:500px;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: rgb(204, 196, 196);
+
+}
+
+.part4
+{
+    position: absolute;
+    margin-top: 1510px;
+    width:600px ;
+    height: 105px;
+    border: solid;
+    border-right: none;
+    border-left: none;
+    border-color:rgb(182, 180, 180);
+    border-width: 2px;
+    margin-left: 450px;
+}
+.written
+{
+    position: absolute;
+    font-size: 15px ;
+    margin-top: -90px ;
+    margin-left: 120px ;
+    color: gray;
+}
+
+.clap_DD
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-left:200px ;
+    margin-top:600px ;
+
+}
+
+.clap_number
+{
+    position: absolute;
+    margin-top: 600px ;
+    margin-left:250px;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: rgb(204, 196, 196);
+
+}
+
+.share_D
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-left:200px ;
+    margin-top:650px ;
+
+}
+
+.share_article
+{
+    position: absolute;
+    margin-top: 650px ;
+    margin-left:250px;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: rgb(204, 196, 196);
+
+}
+
+.part5
+{
+    position: absolute;
+    width:1400px ;
+    height: 500px;
+    margin-top:1680px ;
+    background-color: rgb(231, 228, 228);
+
+}
+
+.part5a
+{
+    position: absolute;
+    width:1350px ;
+    height:400px ;
+}
+
+.hr_down_part
+{
+    margin-top: 70px;
+    margin-left: 50px;
+    color: rgb(204, 196, 196);
+}
+
+.M_F_T_S
+{
+    position: absolute;
+    font-size:20px ;
+    margin-left:50px ;
+    margin-top:30px ;
+    font-weight: 800;
+
+}
+
+.also_D
+{
+    position:absolute ;
+    margin-top:100px ;
+    margin-left:50px;
+    font-size:15px ;
+    color: rgb(134, 130, 130);
+}
+
+.pic_Down1_D
+{
+    position:absolute ;
+    margin-top:130px ;
+    margin-left:50px ;
+    width: 300px ;
+    height:200px ;
+    border-radius: 5px;
+        
+
+}
+
+.joshua_tree
+{
+ position: absolute;
+ font-size: 20px;
+ font-weight: 900;
+ margin-top:340px ;
+ margin-left: 50px;
+ color: rgb(134, 130, 130); ;
+
+}
+
+.over_night
+{
+    position: absolute;
+    font-size: 20px;
+     font-weight: 900;
+     margin-top:360px ;
+    margin-left: 50px;
+    color:rgb(134, 130, 130); ;
+}
+
+
+
+
+.also_D1
+{
+    position:absolute ;
+    margin-top:100px ;
+    margin-left:550px;
+    font-size:15px ;
+    color: rgb(134, 130, 130);
+}
+
+.pic_Down1_D1
+{
+    position:absolute ;
+    margin-top:130px ;
+    margin-left:550px ;
+    width: 300px ;
+    height:200px ;
+    border-radius: 5px;
+        
+
+}
+
+.joshua_tree1
+{
+ position: absolute;
+ font-size: 20px;
+ font-weight: 900;
+ margin-top:340px ;
+ margin-left: 550px;
+ color: rgb(134, 130, 130); ;
+
+}
+
+.over_night1
+{
+    position: absolute;
+    font-size: 20px;
+     font-weight: 900;
+     margin-top:360px ;
+    margin-left: 550px;
+    color:rgb(134, 130, 130); ;
+}
+
+
+.also_D2
+{
+    position:absolute ;
+    margin-top:100px ;
+    margin-left:1050px;
+    font-size:15px ;
+    color: rgb(134, 130, 130);
+}
+
+.pic_Down1_D2
+{
+    position:absolute ;
+    margin-top:130px ;
+    margin-left:1050px ;
+    width: 300px ;
+    height:200px ;
+    border-radius: 5px;
+        
+
+}
+
+.joshua_tree2
+{
+ position: absolute;
+ font-size: 20px;
+ font-weight: 900;
+ margin-top:340px ;
+ margin-left: 1050px;
+ color: rgb(134, 130, 130); ;
+
+}
+
+.over_night2
+{
+    position: absolute;
+    font-size: 20px;
+     font-weight: 900;
+     margin-top:360px ;
+    margin-left: 1050px;
+    color:rgb(134, 130, 130); ;
+}
+
+
+
+.face1
+{
+    width: 45px;
+    height: 45px ;
+    position: absolute;
+    margin-top: 400px ;
+    margin-left: 50px ;
+
+}
+
+.dmitry1
+{
+    position: absolute;
+    font-size:15px ;
+    margin-top:400px;
+    margin-left: 120px ;
+    color: black;
+}
+
+.Aug_10
+{
+    position: absolute;
+    font-size: 10px ;
+    margin-top: 430px ;
+    margin-left: 120px ;
+    color: gray;
+}
+
+
+.face2
+{
+    width: 45px;
+    height: 45px ;
+    position: absolute;
+    margin-top: 400px ;
+    margin-left: 550px ;
+
+}
+
+.dmitry2
+{
+    position: absolute;
+    font-size:15px ;
+    margin-top:400px;
+    margin-left: 620px ;
+    color: black;
+}
+
+.Aug_102
+{
+    position: absolute;
+    font-size: 10px ;
+    margin-top: 430px ;
+    margin-left: 620px ;
+    color: gray;
+}
+
+
+.face3
+{
+    width: 45px;
+    height: 45px ;
+    position: absolute;
+    margin-top: 400px ;
+    margin-left: 1050px ;
+
+}
+
+.dmitry3
+{
+    position: absolute;
+    font-size:15px ;
+    margin-top:400px;
+    margin-left: 1120px ;
+    color: black;
+}
+
+.Aug_103
+{
+    position: absolute;
+    font-size: 10px ;
+    margin-top: 430px ;
+    margin-left: 1120px ;
+    color: gray;
+}
+
+
+@media(max-width:680px)
+{
+    .the
+{
+
+    position: absolute;
+    width: 28px;
+    height: 30px;
+    margin-left: 80px;
+    margin-top: 30px;
+    background-color: none;
+    transform: rotate(-90deg);
+}
+   
+
+
+.siren
+{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -33px;
+}
+
+
+.br
+{
+ position: absolute;
+ width: 1400px;
+ height:1.9px;
+ margin-top:80px ;
+ margin-left: none;
+ background-color:rgb(236, 235, 235);
+}
+
+.button_D
+{
+    position: absolute;
+    border-color: aquamarine;
+    color: aquamarine;
+    background-color: white;
+    font-size: 20px;
+    width: 150px;
+    height: 60px;
+
+    box-shadow: none;
+    margin-left: 900px;
+    margin-top:15px;
+}    
+
+.part2
+{   position: absolute;
+    margin-left: 160px;
+    margin-top:60px ;
+    width: 1000px;
+    height: 700px;
+
+
+}
+
+.face_upper
+{
+    position: absolute;
+    width: 80px ;
+    height: 80px ;
+    margin-top: 30px;
+    margin-left:  -40px;
+}
+
+
+.ways_to
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    font-weight:800 ;
+    margin-left: -50px;
+
+}
+
+.dmitry
+{
+    position: absolute;
+    font-size:23px ;
+    margin-top:30px;
+    margin-left:60px ;
+    color: black;
+    visibility: visible;
+}
+
+.jan_28
+{
+    position: absolute;
+    font-size: 18px ;
+    margin-top: 75px ;
+    margin-left: 60px ;
+    color: gray;
+}
+
+.facebook
+{   
+    position: absolute;
+    width:30px;
+    height:30px;
+    margin-top:-10px ;
+    margin-left:-40px ;
+    border-radius: 5px;
+    
+
+
+}
+
+.twitter
+{
+    position: absolute;
+    width:30px;
+    height:30px;
+    margin-top:-10px ;
+    margin-left:0px ;
+    border-radius: 5px;
+}
+.instagram
+{
+    position: absolute;
+    width:30px;
+    height:30px;
+    margin-top:-10px ;
+    margin-left: 40px ;
+    border-radius: 5px;
+    background-color: gray;
+}
+.youtube
+{
+    position: absolute;
+    width:30px;
+    height:30px;
+    margin-top:-10px ;
+    margin-left: 80px ;
+    border-radius: 5px;
+    
+}
+
+.react_SS
+{
+    position: absolute;
+    width: 800px;
+    height: 300px;
+    margin-left: 110px;
+    margin-top: 350px;
+
+}
+
+.part3
+{
+    position: absolute;
+    width:800px ;
+    height: 300px;
+    margin-left: 110px ;
+    margin-top:650px ;
+
+
+}
+
+.react_text
+{
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+}
+
+.react_text1
+{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: none ;
+    font-size: 25px;
+    font-weight: 900;
+
+}
+
+.code_ss
+{
+    position: absolute;
+    width:800px ;
+    height: 400px;
+    margin-left: 100px ;
+    margin-top:1050px ;
+    
+
+}
+
+.react_B
+{
+    position: absolute;
+    border-color: whitesmoke;
+    background-color:whitesmoke;
+    margin-left:110px ;
+    margin-top: 1450px ; 
+    box-shadow: none;
+
+
+
+}
+.javascript_B
+{
+    position: absolute;
+    border-color: whitesmoke;
+    background-color:whitesmoke;
+    margin-left:480px ;
+    margin-top: 1450px ; 
+
+
+}
+.animation_B
+{
+    position: absolute;
+    border-color: whitesmoke;
+    background-color:whitesmoke;
+    margin-left:800px ;
+    margin-top: 1450px ; 
+
+}
+
+.clap_D
+{
+    display: none;
+    position: absolute;
+    margin-top: 1450px ;
+    margin-left:450px;
+}
+.clap_number
+{
+    display: none;
+    position: absolute;
+    margin-top: 1460px ;
+    margin-left:500px;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: rgb(204, 196, 196);
+
+}
+
+.part4
+{
+    position: absolute;
+    margin-top: 1510px;
+    width:600px ;
+    height: 105px;
+    border: solid;
+    border-right: none;
+    border-left: none;
+    border-color:rgb(182, 180, 180);
+    border-width: 2px;
+    margin-left: 450px;
+}
+.written
+{
+    position: absolute;
+    font-size: 15px ;
+    margin-top: -90px ;
+    margin-left: 120px ;
+    color: gray;
+}
+
+.clap_DD
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-left:200px ;
+    margin-top:600px ;
+
+}
+
+.clap_number
+{
+    position: absolute;
+    margin-top: 600px ;
+    margin-left:250px;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: rgb(204, 196, 196);
+
+}
+
+.share_D
+{
+    display: none;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-left:200px ;
+    margin-top:650px ;
+
+}
+
+.share_article
+{
+    display: none;
+    position: absolute;
+    margin-top: 650px ;
+    margin-left:250px;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: rgb(204, 196, 196);
+
+}
+
+.part5
+{
+    position: absolute;
+    width:1400px ;
+    height: 500px;
+    margin-top:1680px ;
+    background-color: rgb(231, 228, 228);
+
+}
+
+.part5a
+{
+    position: absolute;
+    width:1350px ;
+    height:400px ;
+}
+
+.hr_down_part
+{
+    margin-top: 70px;
+    margin-left: 50px;
+    color: rgb(204, 196, 196);
+}
+
+.M_F_T_S
+{
+    position: absolute;
+    font-size:20px ;
+    margin-left:50px ;
+    margin-top:30px ;
+    font-weight: 800;
+
+}
+
+.also_D
+{
+    position:absolute ;
+    margin-top:100px ;
+    margin-left:50px;
+    font-size:15px ;
+    color: rgb(134, 130, 130);
+}
+
+.pic_Down1_D
+{
+    position:absolute ;
+    margin-top:130px ;
+    margin-left:50px ;
+    width: 300px ;
+    height:200px ;
+    border-radius: 5px;
+        
+
+}
+
+.joshua_tree
+{
+ position: absolute;
+ font-size: 20px;
+ font-weight: 900;
+ margin-top:340px ;
+ margin-left: 50px;
+ color: rgb(134, 130, 130); ;
+
+}
+
+.over_night
+{
+    position: absolute;
+    font-size: 20px;
+     font-weight: 900;
+     margin-top:360px ;
+    margin-left: 50px;
+    color:rgb(134, 130, 130); ;
+}
+
+
+
+
+.also_D1
+{
+    position:absolute ;
+    margin-top:100px ;
+    margin-left:550px;
+    font-size:15px ;
+    color: rgb(134, 130, 130);
+}
+
+.pic_Down1_D1
+{
+    position:absolute ;
+    margin-top:130px ;
+    margin-left:550px ;
+    width: 300px ;
+    height:200px ;
+    border-radius: 5px;
+        
+
+}
+
+.joshua_tree1
+{
+ position: absolute;
+ font-size: 20px;
+ font-weight: 900;
+ margin-top:340px ;
+ margin-left: 550px;
+ color: rgb(134, 130, 130); ;
+
+}
+
+.over_night1
+{
+    position: absolute;
+    font-size: 20px;
+     font-weight: 900;
+     margin-top:360px ;
+    margin-left: 550px;
+    color:rgb(134, 130, 130); ;
+}
+
+
+.also_D2
+{
+    position:absolute ;
+    margin-top:100px ;
+    margin-left:1050px;
+    font-size:15px ;
+    color: rgb(134, 130, 130);
+}
+
+.pic_Down1_D2
+{
+    position:absolute ;
+    margin-top:130px ;
+    margin-left:1050px ;
+    width: 300px ;
+    height:200px ;
+    border-radius: 5px;
+        
+
+}
+
+.joshua_tree2
+{
+ position: absolute;
+ font-size: 20px;
+ font-weight: 900;
+ margin-top:340px ;
+ margin-left: 1050px;
+ color: rgb(134, 130, 130); ;
+
+}
+
+.over_night2
+{
+    position: absolute;
+    font-size: 20px;
+     font-weight: 900;
+     margin-top:360px ;
+    margin-left: 1050px;
+    color:rgb(134, 130, 130); ;
+}
+
+
+
+.face1
+{
+    width: 45px;
+    height: 45px ;
+    position: absolute;
+    margin-top: 400px ;
+    margin-left: 50px ;
+
+}
+
+.dmitry1
+{
+    position: absolute;
+    font-size:15px ;
+    margin-top:400px;
+    margin-left: 120px ;
+    color: black;
+}
+
+.Aug_10
+{
+    position: absolute;
+    font-size: 10px ;
+    margin-top: 430px ;
+    margin-left: 120px ;
+    color: gray;
+}
+
+
+.face2
+{
+    width: 45px;
+    height: 45px ;
+    position: absolute;
+    margin-top: 400px ;
+    margin-left: 550px ;
+
+}
+
+.dmitry2
+{
+    position: absolute;
+    font-size:15px ;
+    margin-top:400px;
+    margin-left: 620px ;
+    color: black;
+}
+
+.Aug_102
+{
+    position: absolute;
+    font-size: 10px ;
+    margin-top: 430px ;
+    margin-left: 620px ;
+    color: gray;
+}
+
+
+.face3
+{
+    width: 45px;
+    height: 45px ;
+    position: absolute;
+    margin-top: 400px ;
+    margin-left: 1050px ;
+
+}
+
+.dmitry3
+{
+    position: absolute;
+    font-size:15px ;
+    margin-top:400px;
+    margin-left: 1120px ;
+    color: black;
+}
+
+.Aug_103
+{
+    position: absolute;
+    font-size: 10px ;
+    margin-top: 430px ;
+    margin-left: 1120px ;
+    color: gray;
+}
+
+
+
+
+}
