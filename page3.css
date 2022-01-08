@@ -784,15 +784,16 @@
 .part4
 {
     position: absolute;
-    margin-top: 1510px;
+    margin-top: 1530px;
     width:600px ;
     height: 105px;
     border: solid;
     border-right: none;
     border-left: none;
+    border-bottom: none;
     border-color:rgb(182, 180, 180);
     border-width: 2px;
-    margin-left: 450px;
+    margin-left: 110px;
 }
 .written
 {
